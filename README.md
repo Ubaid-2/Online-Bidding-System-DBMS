@@ -63,6 +63,6 @@ See `/docs/report.pdf`
 
 ## 👨‍💻 Author
 
-Your Name
+Muhammad Ubaid ur Rehman
 BSCS – Semester 4
 Riphah International University
